@@ -1,0 +1,6 @@
+git clone <CloneLink>
+git status
+git add <FileName>
+git commit (-m "...")
+git push
+git pull
